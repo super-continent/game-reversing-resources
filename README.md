@@ -27,7 +27,7 @@ these function hooks are the base of basically every PC game mod out there, it e
 
 ## The Tools
 - [Cheat Engine](https://cheatengine.org/) - this is THE game hacking tool, has a very good set of things to search and modify memory, can do lots of interesting stuff once you learn how to use it well, the tutorial teaches you a lot.
--[Ghidra](https://ghidra-sre.org/) - extremely good static analysis suite, using this in combination with cheat engine is very nice, has a good decompiler so you dont need to deal with perfectly understanding compiler-optimized asm
+- [Ghidra](https://ghidra-sre.org/) - extremely good static analysis suite, using this in combination with cheat engine is very nice, has a good decompiler so you dont need to deal with perfectly understanding compiler-optimized asm
 
 ## Source Code
 - [GGPO Plus-R](https://github.com/adanducci/GGPOPLUSR) - definitely the most modern open source game caster out there right now, it is an amazing reference for anyone who wants to understand how an implementation of one is structured, still a WIP though
