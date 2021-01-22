@@ -30,7 +30,6 @@ these function hooks are the base of basically every PC game mod out there, it e
 - [Ghidra](https://ghidra-sre.org/) - extremely good static analysis suite, using this in combination with cheat engine is very nice, has a good decompiler so you dont need to deal with perfectly understanding compiler-optimized asm
 
 ## Source Code
-- [GGPO Plus-R](https://github.com/adanducci/GGPOPLUSR) - definitely the most modern open source game caster out there right now, it is an amazing reference for anyone who wants to understand how an implementation of one is structured, still a WIP though
 - [CCCaster](https://github.com/NotMadscientist/CCCaster/) - if youre reading this list you probably already know about this, absolutely amazing caster with netcode that feels like magic, a bit dated but still interesting to read
 - [BBCF Improvement Mod GGPO](https://github.com/GrimFlash/BBCF-Improvement-Mod-GGPO) - does NOT currently implement netplay or any form of ggpo, but its an updated version of BBCFIM, useful reference for creating a fake DLL that wraps an original DLL, allowing you to run code within a game without needing to inject a dll or anything, just drop it in the game folder and the game will automatically load it in upon start.
 - [gbvs-hook](https://github.com/super-continent/gbvs-hook) - my hook for Granblue Fantasy: Versus that enables extraction and loading of scripts at runtime, not the most usable thing and the code isnt great but i think it works as a decent enough reference for how to make an injected DLL in rust.
